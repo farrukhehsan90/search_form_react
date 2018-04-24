@@ -1,0 +1,12 @@
+$margin-top:25px;
+$table-header-color: rgb(221, 221, 15);
+
+.container{
+
+    margin-top: $margin-top;
+
+}
+
+.tableHeader{
+    background-color:$table-header-color;
+}

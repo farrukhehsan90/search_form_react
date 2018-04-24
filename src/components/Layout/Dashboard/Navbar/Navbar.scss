@@ -1,0 +1,25 @@
+$main-header-color:rgb(1, 1, 167);
+$secondary-header-color:rgb(229, 229, 240);
+
+
+.Header{
+    background-color:$main-header-color;
+}
+
+.Navbar{
+    background-color:$secondary-header-color;
+    
+}
+
+
+// .navLink :active{
+//     background-color:$main-header-color;
+// }
+
+.selected{
+    
+    border-radius: 15px;
+    background-color: royalblue;
+    -webkit-text-fill-color: white;
+
+}

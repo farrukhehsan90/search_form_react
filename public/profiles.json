@@ -1,0 +1,86 @@
+[
+    
+        {
+            "userId":"1",
+            "name":"Piyush Chawla",
+            "username":"piyushchawla90",
+            "age":"32",
+            "gender":"M",
+            "favouriteFood":"Butter Chicken",
+            "fromDate":"2007-05-12",
+            "toDate":"2018-04-22"
+        },
+        {
+            "userId":"2",
+            "name":"Ravi Ashwin",
+            "username":"raviashwin90",
+            "age":"27",
+            "gender":"M",
+            "favouriteFood":"Upma",
+            "fromDate":"2010-06-05",
+            "toDate":"2018-04-22"
+        },
+        {
+            "userId":"3",
+            "name":"Suresh Raina",
+            "username":"sureshraina90",
+            "age":"30",
+            "gender":"M",
+            "favouriteFood":"Masala Dosa",
+            "fromDate":"2005-07-29",
+            "toDate":"2018-04-22"
+        },
+        {
+            "userId":"4",
+            "name":"Yuvraj Singh",
+            "username":"yuvrajsingh90",
+            "age":"35",
+            "gender":"M",
+            "favouriteFood":"Lassi",
+            "fromDate":"2000-10-03",
+            "toDate":"2018-04-22"
+        },
+        {
+            "userId":"5",
+            "name":"Dinesh Karthik",
+            "username":"dineshkarthik90",
+            "age":"30",
+            "gender":"M",
+            "favouriteFood":"Rasgulla",
+            "fromDate":"2004-09-05",
+            "toDate":"2018-04-22"
+        },
+        {
+            "userId":"6",
+            "name":"MS Dhoni",
+            "username":"msdhoni90",
+            "age":"36",
+            "gender":"M",
+            "favouriteFood":"Biryani",
+            "fromDate":"2004-12-23",
+            "toDate":"2018-04-22"
+        },
+        {
+            "userId":"7",
+            "name":"MS Dhoni",
+            "username":"msdhoni80",
+            "age":"36",
+            "gender":"M",
+            "favouriteFood":"Biryani",
+            "fromDate":"2004-12-23",
+            "toDate":"2018-04-22"
+        },
+        {
+            "userId":"8",
+            "name":"Virat Kohli",
+            "username":"viratkohli90",
+            "age":"28",
+            "gender":"M",
+            "favouriteFood":"Nahari",
+            "fromDate":"2008-08-18",
+            "toDate":"2018-04-22"
+        }
+    
+
+
+]

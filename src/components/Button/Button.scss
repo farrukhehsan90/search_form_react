@@ -1,0 +1,9 @@
+$disabled-color:grey;
+$cursor-disabled:not-allowed;
+
+
+.Button:disabled{
+
+    background-color:$disabled-color;
+    cursor: $cursor-disabled;
+}

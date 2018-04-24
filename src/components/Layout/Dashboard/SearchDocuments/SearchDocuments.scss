@@ -1,0 +1,14 @@
+$display:flex;
+$horizontal-align:flex-end;
+$vertical-align:flex-start;
+$radius:50%;
+
+.btnContainer{
+    display: $display;
+    justify-content: $horizontal-align;
+    align-content: $vertical-align;
+}
+
+.localeBtn{
+    border-radius: $radius;
+}

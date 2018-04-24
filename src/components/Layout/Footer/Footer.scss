@@ -1,0 +1,22 @@
+$position-fixed:fixed;
+$bottom-margin:0;
+$width:100%;
+$height:40px;
+$footer-color:rgb(58, 211, 219);
+$heart-color: red;
+$font-size:20px;
+
+.footer {
+    position: $position-fixed;
+    bottom: $bottom-margin;
+    width: $width;
+    height: $height;
+    line-height: $height;
+    background-color:lighten($color:$footer-color, $amount: 20%);
+}
+
+.heart{
+    color:$heart-color;
+    font-size: $font-size;
+    
+}
